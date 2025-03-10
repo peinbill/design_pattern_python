@@ -71,3 +71,5 @@ https://www.runoob.com/design-pattern/design-pattern-intro.html
 https://blog.csdn.net/Burgess_zheng/article/details/86762248
 
 https://refactoringguru.cn/design-patterns/python
+
+https://www.cnblogs.com/liugp/p/17134320.html
